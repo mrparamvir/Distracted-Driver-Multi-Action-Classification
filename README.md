@@ -8,7 +8,7 @@ Our goal is to predict the likelihood of what the driver is doing in each pictur
 We need to classify images into these 10 classes 
 
 * c0: safe driving
-* c1: texting - right
+* c1: texting - right 
 * c2: talking on the phone - right
 * c3: texting - left
 * c4: talking on the phone - left
